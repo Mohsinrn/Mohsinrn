@@ -15,6 +15,7 @@ My research emphasises **energy-efficient neural architectures** and **learning 
 - Multimodal Learning (Audio-Visual Fusion)
 - Speech Enhancement & Signal Processing
 - Image classification and segmentation
+- Language Modeling
 - Energy-Efficient & Edge AI
 
 ---
